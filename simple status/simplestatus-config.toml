@@ -1,0 +1,27 @@
+seperator = " "
+
+[[module]]
+prefix = " "
+command = "uname -r"
+update = false
+
+[[module]]
+prefix = " "
+built_in = "date"
+delay = 43200000
+
+[[module]]
+prefix = " "
+built_in = "time"
+
+[[module]]
+prefix = "⏳"
+built_in = "uptime"
+
+[[module]]
+prefix = " "
+built_in = "cpu"
+
+[[module]]
+prefix = "⬛"
+built_in = "mem"
