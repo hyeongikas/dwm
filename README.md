@@ -8,7 +8,7 @@
 
 This repository contains "my" custom configuration files for various tools and applications.
 
-Based on [Bugswriting/dwm](https://github.com/Bugswriting/dwm)
+Based on [Bugswriter/dwm](https://github.com/Bugswriter/dwm)
 
 ## Contents
 
