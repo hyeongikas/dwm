@@ -8,7 +8,7 @@ This repository contains "my" custom configuration files for various tools and a
 
 - [dwm](https://github.com/hyeongikas/dwm-main): My customized build of the dynamic window manager.
 - [neofetch](https://github.com/hyeongikas/neofetch): Initial commit, May 29, 2024
-- [nvim](https://github.com/hyeongikas/nvim): Initial commit, May 29, 2024
+- [nvim](https://github.com/hyeongikas/nvim) (LAZYVIM): Initial commit, May 29, 2024 
 - [power10k](https://github.com/hyeongikas/power10k): Initial commit, May 29, 2024
 - [simple status](https://github.com/hyeongikas/simple_status): Initial commit, May 29, 2024
 - [st](https://github.com/hyeongikas/st-main): Initial commit, May 29, 2024
