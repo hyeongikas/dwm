@@ -8,6 +8,8 @@
 
 This repository contains "my" custom configuration files for various tools and applications.
 
+Based on [Bugswriting/dwm](https://github.com/Bugswriting/dwm)
+
 ## Contents
 
 - [dwm](https://github.com/hyeongikas/dwm-main): My customized build of the dynamic window manager.
