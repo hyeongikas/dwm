@@ -1,3 +1,7 @@
+![Image Description](https://raw.githubusercontent.com/hyeongikas/dwm/master/image.png)
+[Screenshot Without Simple_Status]
+
+
 -----
 
 # DWM
